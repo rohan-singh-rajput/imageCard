@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MemeCardApp</string>
+    <string name="previous">Prev</string>
+    <string name="next">Next</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="meme_details">Meme Details</string>
+    <string name="up">up</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="meme_app">Meme App</string>
+    <string name="wtach_and_share_memes_on_the_go">Wtach and Share Memes on the go</string>
+</resources>

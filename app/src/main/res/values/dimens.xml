@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_value">20dp</dimen>
+    <dimen name="card_radius">20dp</dimen>
+<!--    padding-->
+    <dimen name="padding">20dp</dimen>
+    <dimen name="layout_padding">80dp</dimen>
+    <dimen name="button_dims">30dp</dimen>
+<!--    margins-->
+    <dimen name="btn_margin">60dp</dimen>
+    <dimen name="layout_margin">20dp</dimen>
+    <dimen name="card_margin">10dp</dimen>
+
+    <dimen name="layout_width">400dp</dimen>
+    <dimen name="layout_height">600dp</dimen>
+    <dimen name="image_layout">300dp</dimen>
+</resources>
